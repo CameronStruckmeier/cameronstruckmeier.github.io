@@ -22,9 +22,8 @@ h1.name {
 div.social_bar {
     position: relative;
     padding-top: 5px;
-    right: 10.5%;
-    left: 11%;
     width: 31.5%;
+    right: 13.3%;
     display: inline-block;
     z-index: 1;
 }
